@@ -1,0 +1,5 @@
+D:\ЕТ_Марковская_Шевяков\LibForDemoSchool\bin\Debug\LibForDemoSchool.dll
+D:\ЕТ_Марковская_Шевяков\LibForDemoSchool\bin\Debug\LibForDemoSchool.pdb
+D:\ЕТ_Марковская_Шевяков\LibForDemoSchool\obj\Debug\LibForDemoSchool.csproj.CoreCompileInputs.cache
+D:\ЕТ_Марковская_Шевяков\LibForDemoSchool\obj\Debug\LibForDemoSchool.dll
+D:\ЕТ_Марковская_Шевяков\LibForDemoSchool\obj\Debug\LibForDemoSchool.pdb
